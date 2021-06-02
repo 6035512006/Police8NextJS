@@ -6,7 +6,7 @@ import styles from '../styles/Home.module.css'
 function Home() {
   return <div>
     <Head>
-      <title>main</title>
+      <title>mainfsdf</title>
       <link rel="stylesheet"
         href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"></link>
     </Head>
